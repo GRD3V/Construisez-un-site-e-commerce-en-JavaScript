@@ -1,6 +1,6 @@
 # Construisez un site e-commerce en JavaScript
 
-## Démarrer le back
+## Démarrer le serveur API
 
 ```bash
 cd back
@@ -8,7 +8,7 @@ yarn install
 yarn start:dev
 ```
 
-## Démarrer le front (watch)
+## Démarrer le front (webpack)
 
 ```bash
 cd front

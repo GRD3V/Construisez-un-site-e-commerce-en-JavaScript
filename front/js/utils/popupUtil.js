@@ -11,7 +11,7 @@ export function showAddCartPopup(totalQuantity) {
     title: "Le produit à été ajouté",
     body: `Le produit a été ajouté dans votre panier. ${
       totalQuantity > 100
-        ? "La quantité à dù été ajusté à 100 au total dans votre panier."
+        ? "La quantité à été ajusté à 100 au total dans votre panier."
         : ""
     }`,
     type: "info",
