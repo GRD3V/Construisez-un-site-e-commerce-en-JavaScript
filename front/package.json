@@ -1,0 +1,21 @@
+{
+  "name": "front",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GRD3V/Construisez-un-site-e-commerce-en-JavaScript.git"
+  },
+  "author": {
+    "name": "GRD3V",
+    "email": "raphael@grd3v.org",
+    "url": "https://github.com/GRD3V/"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start:dev": "webpack --watch"
+  },
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
